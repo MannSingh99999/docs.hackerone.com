@@ -15,7 +15,7 @@ HackerOne manages invitations for programs by:
 * Daily checking to see if the program has met their report volume target in the last 30-days
 * Inviting hackers for the program if they're not reaching their report volume target
 
-### How Invitations Work
+### How Invitations Workk
 The number of invitations HackerOne sends is based on the program's report volume on a rolling 30-day basis. These are the use cases as to how HackerOne sends invitations:
 
 Case | Action
